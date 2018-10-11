@@ -2,6 +2,7 @@
 # IE: by setting the step size to one, and replacing the percentNum list with [40,60], you
 # would get an output of 40 1s followed by 60 2s
 # almost exclusively useful for generating histograms and some other graph types when only percentages are avalible
+# even then, it should still be avoided when possible.
 
 
 
