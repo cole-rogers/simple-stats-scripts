@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
 
-
+## this script was just made to generate a historgram of some data from perecents
 
 
 x = [1]
